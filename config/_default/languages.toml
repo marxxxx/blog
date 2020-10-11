@@ -1,0 +1,11 @@
+
+[en]
+  title = "Markus Strobl"
+  LanguageName = "English"
+  weight = 1
+
+# [de]
+#   title = "Markus Strobl" # just for the sake of showing this is possible
+#   LanguageName = "Deutsch"
+#   weight = 2
+  
