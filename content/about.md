@@ -6,4 +6,6 @@ aliases = ["about-us", "contact"]
 author = "Markus Strobl"
 +++
 
-# As pretty much everything at the moment, this site is under construction.
+# This section is under construction
+
+In the meanwhile you could [have a look at my CV](/files/cv_strobl-2020-10.pdf) if you like.
