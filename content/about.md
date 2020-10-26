@@ -8,4 +8,4 @@ author = "Markus Strobl"
 
 # This section is under construction
 
-In the meanwhile you could [have a look at my CV](/files/cv_strobl-2020-10.pdf) if you like.
+Please [have a look at my CV](/files/cv_strobl-2020-10-v2.pdf) in the meanwhile.
